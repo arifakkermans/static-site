@@ -20,5 +20,5 @@ $ open http://localhost:1313/
 
 ## Website Infrastructure
 
-The workshop is available at https://arifakkermans.com. It's a static website
+The website is available at https://arifakkermans.com. It's a static website
 hosted on S3 and served through CloudFront. GitHub actions is used to build the files and push the content to S3.
