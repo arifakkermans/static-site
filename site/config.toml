@@ -3,6 +3,7 @@ title = "Arif Akkermans"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
+googleAnalytics = "G-BJ5HYETZT3"
 
 paginate = 20
 
