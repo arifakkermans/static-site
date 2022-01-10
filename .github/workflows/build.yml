@@ -19,7 +19,7 @@ jobs:
           HUGO_VERSION: 0.91.2
       - name: Hugo Themes
         working-directory: ./site/themes/
-        run: git clone https://github.com/luizdepra/hugo-coder
+        run: git clone https://github.com/arifakkermans/hugo-coder
       - name: Hugo Build
         working-directory: ./site
         run: $HOME/hugo -v
