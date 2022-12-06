@@ -1,11 +1,11 @@
-+++ 
++++
 draft = false
 date = 2022-01-21T09:53:35+01:00
 title = "My Visual Studio Code Setup as a Cloud Engineer "
 description = ""
 slug = ""
 authors = []
-tags = ["software development","aws","vscode"]
+tags = ["software engineering","aws","vscode"]
 categories = []
 externalLink = ""
 series = []
@@ -23,16 +23,16 @@ I use [Fish](https://fishshell.com/) shell with the [Agnoster](https://github.co
 - [AWS CloudFormation](https://marketplace.visualstudio.com/items?itemName=kddejong.vscode-cfn-lint) Linter for CFN templates, the plugin uses [cfn-lint](https://github.com/aws-cloudformation/cfn-lint).
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) Linter for YAML files.
 
-## My Favorite Extensions 
+## My Favorite Extensions
 
 ### [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode)
-I do a lot of AWS Lambda development with the Serverless Application Model (SAM), and properly testing and debugging Lambdas in AWS is a pain. This toolkit makes it easy to test and debug your functions locally. I heavily rely on this extension to interact with AWS. It makes switching between AWS Credential Profiles convenient. Ultimately, the AWS Toolkit for VS Code allows me to be more productive when building applications on AWS. 
+I do a lot of AWS Lambda development with the Serverless Application Model (SAM), and properly testing and debugging Lambdas in AWS is a pain. This toolkit makes it easy to test and debug your functions locally. I heavily rely on this extension to interact with AWS. It makes switching between AWS Credential Profiles convenient. Ultimately, the AWS Toolkit for VS Code allows me to be more productive when building applications on AWS.
 
 ### [ShellCheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
 I use shell scripts to quickly automate various tasks using the AWS CLI. My rule of thumb is that if I need to run something once, create a quick and dirty shell script, otherwise, I'll use Python. ShellCheck is an open-source static analysis tool that automatically finds bugs in your shell scripts. You can improve the quality of your bash/sh shell scripts quality greatly by using the ShellCheck lint script analysis tool.
 
 ### [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
-You can directly edit and save .drawio files within VS Code. Removes the need to leave VS Code to create designs. 
+You can directly edit and save .drawio files within VS Code. Removes the need to leave VS Code to create designs.
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 Provides markdown linting, shortcuts, tables, live previews, and many more features. This extension allow me to be more productive when writing README's or blog posts (I use [Hugo](https://gohugo.io/) to write the blogs).
