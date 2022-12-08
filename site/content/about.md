@@ -16,8 +16,8 @@ If you wish to get in contact with me, you can check out the social icons on the
 
 ### Certifications 📜🏅
 
-[![sa-associate](/images/sa-associate.png)](https://www.credly.com/earner/earned/badge/29ef10df-9ef9-46b5-93db-6f3f22d082ba)
-[![developer](/images/developer.png)](https://www.credly.com/earner/earned/badge/5a43ee8b-8111-467f-81c8-549784ccea4e)
-[![sysops-admin](/images/sysops-admin.png)](https://www.credly.com/earner/earned/badge/fb97fcc9-d500-490d-86c1-84dbace53232)
+[![sa-associate](/images/sa-associate.png)](https://www.credly.com/badges/29ef10df-9ef9-46b5-93db-6f3f22d082ba)
+[![developer](/images/developer.png)](https://www.credly.com/badges/5a43ee8b-8111-467f-81c8-549784ccea4e)
+[![sysops-admin](/images/sysops-admin.png)](https://www.credly.com/badges/29ef10df-9ef9-46b5-93db-6f3f22d082ba)
 
-[![sa-pro](/images/sa-pro.png)](https://www.credly.com/earner/earned/badge/0728644e-7838-49f3-8841-354de75c7006)
+[![sa-pro](/images/sa-pro.png)](https://www.credly.com/badges/0728644e-7838-49f3-8841-354de75c7006)
