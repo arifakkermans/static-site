@@ -14,9 +14,9 @@ When I learn about interesting software development and Serverless topics, I wil
 
 If you wish to get in contact with me, you can check out the social icons on the [frontpage](../index.html).
 
-### Certifications 📜🏅
-[![sa-associate](/images/sa-associate.png)](https://www.credly.com/badges/29ef10df-9ef9-46b5-93db-6f3f22d082ba)
-[![developer](/images/developer.png)](https://www.credly.com/badges/5a43ee8b-8111-467f-81c8-549784ccea4e)
-[![sysops-admin](/images/sysops-admin.png)](https://www.credly.com/badges/29ef10df-9ef9-46b5-93db-6f3f22d082ba)
-[![sa-pro](/images/sa-pro.png)](https://www.credly.com/badges/0728644e-7838-49f3-8841-354de75c7006)
-[![serverless](/images/serverless.png)](https://www.credly.com/badges/296069a5-cb23-4004-ad73-712bb30a5381)
+### Certifications 🏅
+[![sa-associate](/images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/29ef10df-9ef9-46b5-93db-6f3f22d082ba)
+[![developer](/images/aws-certified-developer-associate.png)](https://www.credly.com/badges/5a43ee8b-8111-467f-81c8-549784ccea4e)
+[![sysops-admin](/images/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/29ef10df-9ef9-46b5-93db-6f3f22d082ba)
+[![sa-pro](/images/aws-certified-solutions-architect-professional.png)](https://www.credly.com/badges/0728644e-7838-49f3-8841-354de75c7006)
+[![serverless](/images/aws-learning-serverless.png)](https://www.credly.com/badges/296069a5-cb23-4004-ad73-712bb30a5381)
