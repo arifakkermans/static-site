@@ -1,11 +1,11 @@
 +++
-draft = true
+draft = false
 date = 2023-01-19T11:30:17+01:00
 title = "Does Rust has a place in the Serverless landscape?"
 description = ""
 slug = ""
 authors = []
-tags = []
+tags = ["software engineering","aws","rust", "serverless"]
 categories = []
 externalLink = ""
 series = []
